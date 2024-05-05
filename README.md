@@ -1,4 +1,4 @@
-# PINNACLE: PINN Adaptive ColLocation and Experimental points selection
+# 🏔️PINNACLE: PINN Adaptive ColLocation and Experimental points selection
 
 The code for paper titled "PINNACLE: PINN Adaptive ColLocation and Experimental points selection". The paper has been accepted as a spotlight paper at ICLR 2024 - refer to https://openreview.net/forum?id=GzNaCp6Vcg.
 
